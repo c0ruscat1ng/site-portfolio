@@ -36,7 +36,7 @@ const projects=[
         skills:'HTML,CSS,JS,Bootstrap,JQuery',
         img:"/img/projects/11.jpg",
         gitLink:'https://github.com/c0ruscat1ng/googlepedia',
-        desc:'Это сайт может гуглить по википедии! Данные получаются по API с исползованием Ajax запроса.',
+        desc:'Этот сайт может гуглить по википедии! Данные получаются по API с исползованием Ajax запроса.',
         deployLink:'https://googlepedia.vercel.app/'
     },
     {

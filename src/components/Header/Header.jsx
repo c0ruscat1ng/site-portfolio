@@ -11,7 +11,7 @@ const Header = () => {
                 <div className="header__text">
                     <p>Я постоянно развиваюсь и никогда не стою на месте</p>
                 </div>
-                <a href="https://drive.google.com/drive/folders/1bP3mbYU6sD3ylNEJwlSHgZrIprTlryJE?usp=drive_link" className="btn" target="_blank" rel="noopener noreferrer">Загрузить CV</a>
+                <a href="https://drive.google.com/file/d/1X8UHF2E--2Zrj75m0y1-XoJGZ8Bq77jF/view?usp=sharing" className="btn" target="_blank" rel="noopener noreferrer">Загрузить CV</a>
             </div>
         </header>
     );
